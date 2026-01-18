@@ -68,7 +68,7 @@ GROUP BY module;
 
 ---
 
-## 4. WHERE vs HAVING (Critical Interview Topic)
+## 4. WHERE vs HAVING (Critical Topic)
 
 ### Correct Use of WHERE (Row‑Level Filter)
 ```sql
@@ -148,7 +148,7 @@ GROUP BY module;
 
 ---
 
-## Key Interview‑Safe Takeaways
+## Key Takeaways
 
 - Prefer explicit column selection over `SELECT *`
 - Use `WHERE` for row filters, `HAVING` for aggregated filters
@@ -156,16 +156,4 @@ GROUP BY module;
 - `COUNT(column)` ignores NULL values
 - Always alias aggregated columns
 
----
-
-## Status
-This repository demonstrates **solid SQL fundamentals** expected from:
-- Data Analyst
-- BI Analyst
-- Analytics‑focused Business Analyst
-
-Next topics to add:
-- SUM vs COUNT
-- Window functions
-- Business SQL case studies
 
