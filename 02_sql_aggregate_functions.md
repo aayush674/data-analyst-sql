@@ -95,20 +95,12 @@ This usually indicates:
 
 ---
 
-## Key Takeaways (Interview-Safe)
+## Key Takeaways
 
 - Prefer `SUM / COUNT` for business metrics
 - Avoid blind use of `AVG()` in production
 - Always alias derived metrics
-- Guard against integer division
+- Guard against integer division by multiplying with 1.0
 
----
 
-## Status
-After Day 3, you are comfortable with:
-- Numeric aggregation
-- Derived metrics
-- Business interpretation of SQL results
-
-Next: **Day 4 — JOINs (most important interview topic)**
 
