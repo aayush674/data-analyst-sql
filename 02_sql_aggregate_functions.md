@@ -1,4 +1,4 @@
-# Day 3 — Numeric Aggregation & Derived Metrics (SQL)
+# Numeric Aggregation & Derived Metrics (SQL)
 
 This file captures **Day 3 learning** focused on numeric aggregation and analyst-level metric derivation. The emphasis is on **how metrics are calculated**, not just SQL syntax.
 
