@@ -1,6 +1,6 @@
 # Data Analyst SQL Portfolio
 
-This repository documents my **structured learning and hands-on practice in SQL** as part of my transition from **QA Analyst → Data Analyst / BI Analyst**.
+This repository documents my **structured learning and hands-on practice in SQL** as part of my roadmap for becoming **Data Analyst / BI Analyst**.
 
 The focus of this repository is **core SQL fundamentals, analytical patterns, and business-oriented problem solving**, not just syntax memorization.
 
@@ -59,21 +59,10 @@ Each file is:
 
 ---
 
-## 👤 Background
-
-- Current Role: QA Analyst
-- Target Roles:
-  - Data Analyst
-  - BI Analyst
-  - Analytics-focused Business Analyst
-
-This repository reflects my active preparation for analytics roles.
-
----
 
 ## 🚀 Upcoming Additions
 
-- SQL JOINs (interview elimination topic)
+- SQL JOINs
 - Window functions (`RANK`, `ROW_NUMBER`, running totals)
 - End-to-end business case studies
 - SQL patterns used in dashboards (Power BI / Excel)
