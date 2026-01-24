@@ -1,6 +1,6 @@
 # SQL JOINs — Fundamentals, Pitfalls, and Edge Cases
 
-This document consolidates **Day 4 and Day 5 learning** on SQL JOINs. It is written from an **interview + real-world analytics perspective**, focusing on *why* JOINs behave the way they do, not just syntax.
+This document consolidates learnings on SQL JOINs. It is written from an **real-world analytics perspective**, focusing on *why* JOINs behave the way they do, not just syntax.
 
 ---
 
@@ -150,22 +150,11 @@ WHERE d.defect_id IS NULL
 
 ---
 
-## 9. Interview-Safe Rules (Memorize These)
+## 9. Important Rules
 
 1. INNER JOIN → when both sides are required
 2. LEFT JOIN → when left table must be preserved
 3. Filters on right table → prefer `ON`, not `WHERE`
 4. `WHERE` removes rows; `ON` controls matching
 5. NULLs are analytical signals, not errors
-
----
-
-## Status
-After this module, you understand:
-- INNER vs LEFT JOIN deeply
-- JOIN selection logic
-- NULL behavior
-- Real interview elimination traps
-
-Next recommended topic: **Window Functions**
 
