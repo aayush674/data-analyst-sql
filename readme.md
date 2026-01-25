@@ -41,7 +41,8 @@ data-analyst-sql/
 ├── fundamentals/
 │   ├── 01_sql_core_fundamentals.md
 │   ├── 02_sql_aggregation_patterns.md
-│   └── 03_sql_joins.md
+│   ├── 03_sql_joins.md
+│   └── 04_sql_window_functions.md
 ```
 
 Each file is:
@@ -62,7 +63,6 @@ Each file is:
 
 ## 🚀 Upcoming Additions
 
-- Window functions (`RANK`, `ROW_NUMBER`, running totals)
 - End-to-end business case studies
 - SQL patterns used in dashboards (Power BI / Excel)
 
